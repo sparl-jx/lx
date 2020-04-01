@@ -1,0 +1,1 @@
+#define _CTR_SECURE_NO_WARNINGS 1
